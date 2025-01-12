@@ -1,11 +1,12 @@
 # FFA_S.Coop_SECURITY
-Windows:
+
+Esta aplicación, desarrollada en Python, permite cifrar y descifrar archivos de texto (.txt) utilizando un método de cifrado de permutaciones personalizado. La aplicación aplica un algoritmo único de reordenamiento de caracteres dentro del archivo según un conjunto de reglas definidas por el usuario, lo que garantiza un alto nivel de seguridad. Además, la app incluye medidas de ciberseguridad propias, como el uso de claves dinámicas y validaciones para evitar ataques comunes como los de diccionario o fuerza bruta.
+
+El proceso de cifrado asegura que solo los usuarios con la clave correcta puedan revertir el proceso y acceder al contenido original del archivo, proporcionando una solución sencilla y efectiva para proteger datos sensibles almacenados en formato de texto.
 
 Instalación de Python:
 
 Descarga Python: Dirígete al sitio web oficial de Python y descarga la versión más reciente de Python para Windows.
-
-Instala Python:
 
 Abre el archivo de instalación descargado.
 Asegúrate de marcar la casilla "Add Python to PATH" (Agregar Python al PATH) antes de hacer clic en "Install Now".
